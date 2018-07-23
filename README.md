@@ -4,7 +4,7 @@
 
 This PCB is a work-in-progress and has not yet been tested.
 
-The speaker PCB is based on the schematic used in the [Speaker Workshop by Freie Maker e.V. (in German).](https://freie-maker.de/2018/06/der-boxenbau-workshop-bei-den-freien-makern/)
+The speaker PCB is based on the schematic used in the [Speaker Workshop by Freie Maker e.V. (in German).](https://freie-maker.de/2018/06/der-boxenbau-workshop-bei-den-freien-makern/) It adds three terminal blocks to make cabling inside the speaker a bit more robust (as cables won&#39;t have to be soldered anymore).
 
 Additional documentation can be found [here](https://docs.google.com/document/d/1xRjg8uscsd9Le15cIWoDVk5CKfX-zGayms6dGGZDSWU/edit).
 
