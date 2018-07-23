@@ -2,13 +2,11 @@
 
 ## About This Project
 
-_This PCB is a work-in-progress and has not yet been tested._
+This PCB is a work-in-progress and has not yet been tested.
 
-_The speaker PCB is based on the schematic used in the Speaker Builder Workshop by Freie Maker e.V.
-_
+The speaker PCB is based on the schematic used in the Speaker Builder Workshop by Freie Maker e.V.
 
-_Additional documentation can be found [here](https://docs.google.com/document/d/1xRjg8uscsd9Le15cIWoDVk5CKfX-zGayms6dGGZDSWU/edit &quot;additional Information&quot;).
-_
+Additional documentation can be found [here](https://docs.google.com/document/d/1xRjg8uscsd9Le15cIWoDVk5CKfX-zGayms6dGGZDSWU/edit &quot;additional Information&quot;).
 
 ## Renderings
 
