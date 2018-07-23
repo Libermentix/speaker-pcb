@@ -6,7 +6,7 @@ This PCB is a work-in-progress and has not yet been tested.
 
 The speaker PCB is based on the schematic used in the Speaker Builder Workshop by Freie Maker e.V.
 
-Additional documentation can be found [here](https://docs.google.com/document/d/1xRjg8uscsd9Le15cIWoDVk5CKfX-zGayms6dGGZDSWU/edit &quot;additional Information&quot;).
+Additional documentation can be found [here](https://docs.google.com/document/d/1xRjg8uscsd9Le15cIWoDVk5CKfX-zGayms6dGGZDSWU/edit).
 
 ## Renderings
 
